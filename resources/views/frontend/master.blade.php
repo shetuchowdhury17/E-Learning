@@ -3,7 +3,7 @@
 
 <head>
 
-    <title>Aduca - Learning Management System</title>
+    <title>E-learning Management System</title>
 
     <!-- Google fonts -->
     <link rel="preconnect" href="https://fonts.gstatic.com">
